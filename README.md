@@ -4,7 +4,7 @@
 
 ⚡ Te dejo mis links..
 <p align="center">
-<a href="https://www.instagram.com/ernestoflames"><img src="https://i.postimg.cc/tghj3Mgc/Instagram.png"></a><a href="https://www.ernestoflames.com/"><img src="https://i.postimg.cc/L5y6ckcP/web.png"></a><a href="https://www.twitter.com/ernestoflames"><img src="https://i.postimg.cc/Y9RBVLYf/twitter.png"></a></p>
+<a href="https://www.instagram.com/ernestoflames"><img src="https://i.postimg.cc/tghj3Mgc/Instagram.png"></a><a href="https://www.ernestoflames.com/"><img src="https://i.postimg.cc/L5y6ckcP/web.png"></a><a href="https://www.twitter.com/ernestoflames"><img src="https://i.postimg.cc/qvK4wdvy/Twitter-1.png"></a></p>
 
 Si eres reclutador, mi sintesis curricular la puedes encontrar en http://www.ernestoflames.com/en-pdf
 
