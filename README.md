@@ -1,6 +1,8 @@
 <img src="https://i.postimg.cc/dVrmw23F/Dise-o-sin-t-tulo.gif">
 
-👋 Hola, mi nombre es Ernesto Flames, soy de Venezuela, me gradué como Ingeniero en Informática y llevo algunos años trabajando como desarrollador web para algunas empresas de mi país y algunas otras alrededor del mundo. Actualmente estoy ejerciendo como freelance y estoy abierto a escuchar las ideas de tu proyecto en mente que seguramente podremos hacer realidad si trabajamos juntos.
+👋 Hola, mi nombre es Ernesto Flames, soy de Venezuela, me gradué como Ingeniero en Informática y llevo algunos años trabajando como desarrollador web (back y front) para algunas empresas de mi país y algunas otras alrededor del mundo. Actualmente estoy ejerciendo como freelance y estoy abierto a escuchar las ideas de tu proyecto en mente que seguramente podremos hacer realidad si trabajamos juntos.
+
+Desarrollo principalmente en PHP bajo el framework Laravel y actualmente estoy estudiando Javascript/ReactJS
 
 ⚡ Te dejo mis links..
 <p align="center">
