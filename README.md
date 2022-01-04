@@ -9,4 +9,4 @@
 Si eres reclutador, mi sintesis curricular la puedes encontrar en http://www.ernestoflames.com/en-pdf
 
 📄 Un poco mas de mi...
-Me considero un apasionado por la tecnología en general, me gusta la música electronica (fui Dj por algun tiempo), los videojuegos y mi hobbie es el automovilismo.
+Me considero un apasionado por la tecnología en general, estudié percusión clásica y latina por 4 años, me gusta la música electronica (fui Dj por algun tiempo), los videojuegos y mi hobbie es el automovilismo.
