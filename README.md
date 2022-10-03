@@ -1,6 +1,6 @@
 <a href="https://www.ernestoflames.com" target="_blank"><img src="https://i.postimg.cc/dVrmw23F/Dise-o-sin-t-tulo.gif"></a>
 
-👋 Hola, mi nombre es Ernesto Flames, soy de Venezuela, me gradué como Ingeniero en Informática y llevo algunos años trabajando como desarrollador web (back y front) para algunas empresas de mi país y algunas otras alrededor del mundo. Actualmente estoy ejerciendo como desarrollador backend en una compañia de telecomunicaciones colombiana llamada L'avenir, desarrollando principalmente en PHP, Laravel, Yii2, Javascript, VueJS y ReactJS.
+👋 Hola, mi nombre es Ernesto Flames, soy de Venezuela, me gradué como Ingeniero en Informática y llevo algunos años trabajando como desarrollador web (back y front) para algunas empresas de mi país y algunas otras alrededor del mundo. Actualmente estoy ejerciendo como desarrollador backend en una compañia de telecomunicaciones colombiana (remoto) llamada L'avenir, desarrollando principalmente en PHP, Laravel, Yii2, Javascript, VueJS y ReactJS.
 
 ## 👨🏼‍💻 Skillset
 
