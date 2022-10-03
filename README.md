@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/dVrmw23F/Dise-o-sin-t-tulo.gif">
+<a href="https://www.ernestoflames.com" target="_blank"><img src="https://i.postimg.cc/dVrmw23F/Dise-o-sin-t-tulo.gif"></a>
 
 👋 Hola, mi nombre es Ernesto Flames, soy de Venezuela, me gradué como Ingeniero en Informática y llevo algunos años trabajando como desarrollador web (back y front) para algunas empresas de mi país y algunas otras alrededor del mundo. Actualmente estoy ejerciendo como desarrollador backend en una compañia de telecomunicaciones colombiana llamada L'avenir, desarrollando principalmente en PHP bajo el framework Laravel, Yii2, Javascript, VueJS y ReactJS.
 
@@ -15,11 +15,12 @@
 - 💻 Apasionado por la tecnología en general
 - 🎵 EDM Lover (ex Dj)
 - 🎮 Gamer
-- 🚗 Me gustan el automovilismo
+- 🚗 Me gusta el automovilismo
 
+## 🌍 Mi sitio web
+- www.ernestoflames.com
 
-## ⚡ Te dejo mis links..
-<a href="https://www.ernestoflames.com/"><img src="https://i.postimg.cc/L5y6ckcP/web.png"></a><br>
+## 📱 Mis redes
 [![Instagram](https://skillicons.dev/icons?i=instagram&theme=light)](https://instagram.com/ernestoflames)
 [![Twitter](https://skillicons.dev/icons?i=twitter&theme=light)](https://twitter.com/ernestoflames)
 
