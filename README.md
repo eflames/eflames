@@ -16,6 +16,7 @@
 - 🎵 EDM Lover (ex Dj)
 - 🎮 Gamer
 - 🚗 Me gusta el automovilismo
+- 🥁 Percusionista (conservatorio Simón Bolívar)
 
 ## 🌍 Mi sitio web
 - www.ernestoflames.com
