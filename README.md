@@ -4,7 +4,7 @@
 
 ## 👨🏼‍💻 Skillset
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,php,laravel,nodejs,react,vue,docker,git,wordpress&theme=dark)](https://www.ernestoflames.com)
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,laravel,nodejs,express,react,vue,docker,git,wordpress&theme=dark)](https://www.ernestoflames.com)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eflames&count_private=true&theme=react&show_icons=true)
