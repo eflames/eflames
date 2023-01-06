@@ -1,29 +1,29 @@
 <a href="https://www.ernestoflames.com" target="_blank"><img src="https://i.postimg.cc/dVrmw23F/Dise-o-sin-t-tulo.gif"></a>
 
-👋 Hola, mi nombre es Ernesto Flames, soy de Venezuela, me gradué como Ingeniero en Informática y llevo algunos años trabajando como desarrollador web (back y front) para algunas empresas de mi país y algunas otras alrededor del mundo. Actualmente estoy ejerciendo como desarrollador backend en una compañia de telecomunicaciones colombiana (remoto) llamada L'avenir, desarrollando principalmente en PHP, Laravel, Yii2, Javascript, VueJS y ReactJS.
+👋 Hello, my name is Ernesto Flames, I am from Venezuela, I graduated as a Computer Engineer and I have been working as a web developer (back and front) for some years for some companies in my country and some others around the world.
 
 ## 👨🏼‍💻 Skillset
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,php,laravel,javascript,nodejs,express,react,vue,mysql,docker,aws,git,wordpress&theme=dark)](https://www.ernestoflames.com)
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,laravel,javascript,vue,mysql,docker,aws,git,wordpress&theme=dark)](https://www.ernestoflames.com)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eflames&count_private=true&theme=react&show_icons=true)
 
-## 👨🏼‍🦲 Sobre mi
+## 👨🏼‍🦲 About me
 
-- 💼 Backend Developer en L'avenir
-- 💻 Apasionado por la tecnología en general
-- 🎵 EDM Lover (ex Dj)
+- 💼 Software Engineer @ Quick Loans Atlanta
+- 💻 Tech lover in general
+- 🎵 EDM Dj
 - 🎮 Gamer
-- 🚗 Me gusta el automovilismo
-- 🥁 Percusionista (conservatorio Simón Bolívar)
+- 🚗 Motor sports hobbyist
+- 🥁 Percussionist
 
-## 🌍 Mi sitio web
+## 🌍 My website (spanish)
 - www.ernestoflames.com
 
-## 📱 Mis redes
+## 📱 Social Media
 [![Instagram](https://skillicons.dev/icons?i=instagram&theme=light)](https://instagram.com/ernestoflames)
 [![Twitter](https://skillicons.dev/icons?i=twitter&theme=light)](https://twitter.com/ernestoflames)
 
-Si eres reclutador, mi sintesis curricular la puedes encontrar en http://www.ernestoflames.com/en-pdf
+If you are a recruiter, you can find my cv at http://www.ernestoflames.com/en-pdf
 
