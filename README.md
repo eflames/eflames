@@ -1,6 +1,6 @@
 <a href="https://www.ernestoflames.com" target="_blank"><img src="https://i.postimg.cc/dVrmw23F/Dise-o-sin-t-tulo.gif"></a>
 
-👋 Hello, my name is Ernesto Flames, I am from Venezuela, I graduated as a Computer Engineer and I have been working as a web developer (back and front) for some years for companies in my country and others around the world.
+👋 Hello, my name is Ernesto Flames, I am from Venezuela, I graduated as a Computer Engineer and I've been working as a web developer (back and front) for 6+ years for companies in my country and others around the world.
 
 ## 👨🏼‍💻 Skillset
 
