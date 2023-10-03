@@ -6,9 +6,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,php,laravel,javascript,vue,mysql,docker,aws,git,wordpress&theme=dark)](https://www.ernestoflames.com)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eflames&count_private=true&theme=react&show_icons=true)
-
 ## 👨🏼‍🦲 About me
 
 - 💼 Software Engineer @ Quick Loans Atlanta
