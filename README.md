@@ -17,7 +17,7 @@
 
 **🔗 Connect with me:**
 
-[LinkedIn](https://www.linkedin.com/in/ernestoflames/) | [Portfolio](https://ernestoflames.com/casos-de-exito/)
+[LinkedIn](https://www.linkedin.com/in/ernestoflames/) | [Portfolio](https://ernestoflames.com/portafolio)
 
 ## 👨🏼‍💻 Skillset
 
@@ -25,3 +25,5 @@
 ## 🌍 My website (spanish)
 - www.ernestoflames.com
 - If you are a recruiter, you can find my cv at http://www.ernestoflames.com/en-pdf
+
+<a href="https://whyphp.dev"><img src="https://img.shields.io/badge/Why_PHP-in_2026-7A86E8?style=for-the-badge&labelColor=18181b" alt="Why PHP in 2026"></a>
