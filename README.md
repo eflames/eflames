@@ -2,7 +2,7 @@
 
 ## Hello there! 👋 I'm Ernesto Flames
 
-**🚀 Fullstack Developer** with 7+ years of experience building robust and scalable solutions for companies in Venezuela and internationally.
+**🚀 Fullstack Developer** with 7+ years of experience building robust and scalable solutions for companies in Venezuela, Colombia, Spain & USA.
 
 **🎓 Computer Engineer** passionate about turning ideas into functional and elegant code.
 
