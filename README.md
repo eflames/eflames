@@ -1,4 +1,4 @@
-<a href="https://www.ernestoflames.com" target="_blank"><img src="https://i.postimg.cc/8zzQfKGv/banner-linkedin.png"></a>
+<a href="https://www.isdose.com" target="_blank"><img src="https://i.ibb.co/738hpMF/banner-linkedin.png"></a>
 
 ## Hello there! 👋 I'm Ernesto Flames
 
@@ -17,7 +17,7 @@
 
 **🔗 Connect with me:**
 
-[LinkedIn](https://www.linkedin.com/in/ernestoflames/) | [Portfolio](https://ernestoflames.com/portafolio)
+[LinkedIn](https://www.linkedin.com/in/ernestoflames/) | [Portfolio](https://isdose.com/proyectos)
 
 ## 👨🏼‍💻 Skillset
 
