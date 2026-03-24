@@ -17,13 +17,13 @@
 
 **🔗 Connect with me:**
 
-[LinkedIn](https://www.linkedin.com/in/ernestoflames/) | [Portfolio](https://isdose.com/proyectos)
+[LinkedIn](https://www.linkedin.com/in/ernestoflames/) | [Portfolio](https://isdose.com/lab)
 
 ## 👨🏼‍💻 Skillset
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,flutter,dart,javascript,vue,mysql,docker,aws,git,wordpress&theme=dark)](https://www.ernestoflames.com)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,flutter,dart,javascript,vue,mysql,docker,aws,git,wordpress&theme=dark)](https://www.isdose.com)
 ## 🌍 My website (spanish)
-- www.ernestoflames.com
-- If you are a recruiter, you can find my cv at http://www.ernestoflames.com/en-pdf
+- www.isdose.com
+- If you are a recruiter, you can find my cv at http://www.isdose.com/pdf
 
 <a href="https://whyphp.dev"><img src="https://img.shields.io/badge/Why_PHP-in_2026-7A86E8?style=for-the-badge&labelColor=18181b" alt="Why PHP in 2026"></a>
